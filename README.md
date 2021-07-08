@@ -75,7 +75,3 @@ It is important that you fill in every item of the JSON FILE! every emoji used i
                     align="center"
                 />
             </a></div>
-
-## Credits
-
-[@eritislami](https://github.com/eritislami/) For the Reacting system to messages, great Idea i adopted that [@iCrawl/evobot](https://github.com/eritislami/evobot)
